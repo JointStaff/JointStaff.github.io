@@ -1112,12 +1112,12 @@ section.lazy-placeholder:after {
 }
 .cid-s4Y6Ma0ZUO {
   padding-top: 120px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/161116-us-army-tactical-operations-770x400.jpg");
 }
 .cid-s5tWxjpBwo {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 30px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-s5tWxjpBwo .mbr-text {
@@ -1134,7 +1134,7 @@ section.lazy-placeholder:after {
   color: #149dcc;
 }
 .cid-s4Y6w6wcAI {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 0px;
   background-color: #efefef;
 }
